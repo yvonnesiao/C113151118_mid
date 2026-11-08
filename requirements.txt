@@ -1,0 +1,6 @@
+streamlit
+opencv-contrib-python-headless
+numpy
+Pillow
+mediapipe==0.10.30
+pandas
